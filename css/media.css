@@ -1,0 +1,200 @@
+@media only screen and (max-width: 1400px) {
+}
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 1025px) {
+}
+
+@media only screen and (max-width: 768px) {
+    html {
+        overflow-x: hidden !important
+    }
+
+    body {
+        background-image: url(../img/background-mobile.jpg);
+        overflow-x: hidden !important
+    }
+
+    body.modal-open {
+        overflow: hidden !important;
+        overflow-x: hidden !important
+    }
+
+    .modal-dialog {
+        margin: 2.5rem;
+        margin-top: 16%
+    }
+
+    .biamo-logo {
+        display: block;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 18px 14px 6px;
+        width: 180px;
+        height: auto
+    }
+
+    .floor-img {
+        display: block;
+        top: 100px;
+    }
+
+    .floor-img-mobile {
+        display: none;
+        top: -6%
+    }
+
+    .coins-l1 {
+        width: 80px;
+        top: 25vh !important;
+        left: 68vw !important
+    }
+
+    .coins-l2 {
+        display: none !important
+    }
+
+    .coins-l3 {
+        width: 90px;
+        top: 61vh !important;
+        left: -3vw !important
+    }
+
+    .coins-l4 {
+        width: 66px;
+        top: 4vh !important;
+        left: 76vw !important
+    }
+
+    .coins-l5 {
+        display: none !important
+    }
+
+    .coins-l6 {
+        display: none !important
+    }
+
+    .coins-l7 {
+        width: 80px;
+        top: 4vh !important;
+        left: -1vw !important
+    }
+
+    .coins-r1 {
+        width: 88px;
+        top: 30vh !important;
+        left: 84vw !important
+    }
+
+    .coins-r2 {
+        display: none !important
+    }
+
+    .coins-r3 {
+        display: none !important
+    }
+
+    .coins-r4 {
+        display: none !important
+    }
+
+    .coins-r5 {
+        width: 120px;
+        top: 76vh !important;
+        left: 66vw !important
+    }
+
+    .coins-r6 {
+        width: 80px;
+        top: 14vh !important;
+        left: 77vw !important
+    }
+
+    .coins-r7 {
+        display: none !important
+    }
+
+    .chars-l1 {
+        width: 220px;
+        top: 3rem !important;
+        left: 2rem !important
+    }
+
+    .chars-l2 {
+        width: 240px;
+        top: 6rem !important;
+        left: -3rem !important
+    }
+
+    .chars-l3 {
+        width: 180px;
+        top: 13rem !important;
+        left: -3rem !important
+    }
+
+    .chars-r1 {
+        width: 160px;
+        top: 14rem !important;
+        left: 19rem !important
+    }
+
+    .chars-r2 {
+        width: 180px;
+        top: 7rem !important;
+        left: 14rem !important
+    }
+
+    .chars-r3 {
+        width: 240px;
+        top: 2rem !important;
+        left: 8rem !important
+    }
+
+    .number-frame {
+        padding: 20% 15%;
+        font-size: .8rem
+    }
+
+    .number-frame-img {
+        display: block
+    }
+
+    .number-frame-img-m {
+        display: none
+    }
+
+    .n-spinner {
+        width: 380px;
+        min-height: 420px;
+        margin-top: 2vh
+    }
+
+    .modal-win-text-prize {
+        font-size: 3rem
+    }
+
+    #mainbutton {
+        margin-top: -2rem
+    }
+
+    .payments-logos {
+        padding: 8px;
+        width: auto;
+        max-height: 32px;
+        margin-right: 6px;
+        margin-left: 6px
+    }
+
+    .footer-text {
+        font-size: .6rem;
+        padding: 0 2rem;
+        margin-bottom: 4rem
+    }
+
+    .footer-cc {
+        margin-bottom: 4rem
+    }
+}
